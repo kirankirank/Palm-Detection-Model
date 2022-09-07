@@ -15,7 +15,7 @@ while True:
         
     cv2.imshow('frame', imag)
       
-    # the 'q' button is set as the
+    # the 'p' button is set as the
     # quitting button you may use any
     # desired button of your choice
     if cv2.waitKey(1) & 0xFF == ord('p'):
